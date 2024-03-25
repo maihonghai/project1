@@ -16,6 +16,7 @@ namespace WindowsFormsApp2
         {
             InitializeComponent();
         }
+        //Hai dep trai
 
         private void gunaButton1_Click(object sender, EventArgs e)
         {
