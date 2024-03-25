@@ -17,6 +17,9 @@ namespace WindowsFormsApp2
             InitializeComponent();
         }
         //Hai dep trai
+        //cap nhat nhanh con lan 2 
+        //cap nhat nhanh con lam 3
+        //cap nhat nhanh con lam 3
 
         private void gunaButton1_Click(object sender, EventArgs e)
         {
